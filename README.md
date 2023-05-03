@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Villanueva</h1>
 <h3 align="center">A Mechatronics engineer focused in Robotics</h3>
 
-<img src="https://media.giphy.com/media/2m1WnCqNuyEJnigDAP/giphy.gif" width="200" />
+<h1 align="center">
+<img src="https://media.giphy.com/media/2m1WnCqNuyEJnigDAP/giphy.gif" width="200" align="center"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
